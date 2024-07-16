@@ -18,4 +18,4 @@ This project involves implementing an Extended Kalman Filter (EKF) to estimate t
    - Refined the robot's pose estimate iteratively.
 
 ## Project Structure
-- **ekf.py**: Main script for implementing the Extended Kalman Filter.
+- `ekf.py`: Main script for implementing the Extended Kalman Filter.
